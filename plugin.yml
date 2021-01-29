@@ -1,0 +1,6 @@
+---
+name: RideHorses
+version: 0.0.1
+main: RobotLuca37\RideHorses\Main
+api: 3.17.3
+...
